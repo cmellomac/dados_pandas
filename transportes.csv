@@ -1,26 +1,26 @@
-Motorista;Data do Pedido;Data da Entrega;Prazo da Entrega;Cidade;Veículo;Valor do Frete;Gasto com Combustível;Gasto com Manutenção;Custos Fixos na Viagem
-Paulo;01/01/2025;11/01/2025;11;São Paulo,Scania Truck;4500,1500;450;150
-Astolfo,01/01/2025/10/01/2025;3;Salvador;Iveco VUC;6400;2300;600;300
-Carlos;05/01/2025;15/01/2025;8;Curitiba;Mercedes-Benz;5200;1400;350;400
-Roberto;07/01/2025;12/01/2025;10;Recife;Volvo;3800;900;250;300
-Marcos;10/01/2025;25/01/2025;10;Rio de Janeiro;DAF;7200;2100;550;600
-Fernando;12/01/2025;20/01/2025;10;São Paulo;Scania;6800;1800;450;550
-Ricardo;14/01/2025;21/01/2025;7;Porto Alegre;Iveco;3900;950;280;350
-André;16/01/2025;28/01/2025;9;Salvador;Volvo;7500;2100;600;700
-Marcelo;18/01/2025;25/01/2025;10;Fortaleza;DAF;5600;1400;320;450
-Eduardo;20/01/2025;27/01/2025;7;Curitiba;Volkswagen;4200;1100;300;400
-Leandro;22/01/2025;06/02/2025;12;Belo Horizonte;Mercedes-Benz;8100;2300;550;650
-Rogério;24/01/2025;01/02/2025;8;Recife;Scania;4900;1300;350;420
-Gustavo;26/01/2025;02/02/2025;10;Goiânia;Iveco;3500;850;220;300
-Wagner;28/01/2025;10/02/2025;10;Rio de Janeiro;Volvo;9200;2600;700;800
-Fábio;30/01/2025;07/02/2025;9;Florianópolis;DAF;4700;1200;280;380
-Sérgio;02/02/2025;08/02/2025;8;São Paulo;Volkswagen;5300;1450;400;500
-Douglas;04/02/2025;16/02/2025;10;Porto Alegre;Mercedes-Benz;6200;1700;480;550
-Renato;06/02/2025;14/02/2025;10;Curitiba;Scania;5800;1500;350;450
-Alexandre;08/02/2025;21/02/2025;11;Salvador;Iveco;7900;2200;600;700
-Jorge;10/02/2025;17/02/2025;7;Recife;Volvo;4100;1050;270;350
-Daniel;12/02/2025;22/02/2025;12;Fortaleza;DAF;6700;1900;500;600
-Murilo;14/02/2025;20/02/2025;9;Goiânia;Volkswagen;4400;1150;300;380
-Rodrigo;16/02/2025;02/03/2025;10;Belo Horizonte;Mercedes-Benz;8500;2400;650;750
-Vinícius;18/02/2025;26/02/2025;8;Rio de Janeiro;Scania;6100;1650;420;500
-Thiago;20/02/2025;05/03/2025;12;Florianópolis;Iveco;7200;2000;550;650
+Motorista,Data do Pedido,Data da Entrega,Prazo da Entrega,Cidade,Veículo,Valor do Frete,Gasto com Combustível,Gasto com Manutenção,Custos Fixos na Viagem
+Paulo,01/01/2025,11/01/2025,11,São Paulo,Scania Truck,4500,1500,450,150
+Astolfo,01/01/2025/10/01/2025,3,Salvador,Iveco VUC,6400,2300,600,300
+Carlos,05/01/2025,15/01/2025,8,Curitiba,Mercedes-Benz,5200,1400,350,400
+Roberto,07/01/2025,12/01/2025,10,Recife,Volvo,3800,900,250,300
+Marcos,10/01/2025,25/01/2025,10,Rio de Janeiro,DAF,7200,2100,550,600
+Fernando,12/01/2025,20/01/2025,10,São Paulo,Scania,6800,1800,450,550
+Ricardo,14/01/2025,21/01/2025,7,Porto Alegre,Iveco,3900,950,280,350
+André,16/01/2025,28/01/2025,9,Salvador,Volvo,7500,2100,600,700
+Marcelo,18/01/2025,25/01/2025,10,Fortaleza,DAF,5600,1400,320,450
+Eduardo,20/01/2025,27/01/2025,7,Curitiba,Volkswagen,4200,1100,300,400
+Leandro,22/01/2025,06/02/2025,12,Belo Horizonte,Mercedes-Benz,8100,2300,550,650
+Rogério,24/01/2025,01/02/2025,8,Recife,Scania,4900,1300,350,420
+Gustavo,26/01/2025,02/02/2025,10,Goiânia,Iveco,3500,850,220,300
+Wagner,28/01/2025,10/02/2025,10,Rio de Janeiro,Volvo,9200,2600,700,800
+Fábio,30/01/2025,07/02/2025,9,Florianópolis,DAF,4700,1200,280,380
+Sérgio,02/02/2025,08/02/2025,8,São Paulo,Volkswagen,5300,1450,400,500
+Douglas,04/02/2025,16/02/2025,10,Porto Alegre,Mercedes-Benz,6200,1700,480,550
+Renato,06/02/2025,14/02/2025,10,Curitiba,Scania,5800,1500,350,450
+Alexandre,08/02/2025,21/02/2025,11,Salvador,Iveco,7900,2200,600,700
+Jorge,10/02/2025,17/02/2025,7,Recife,Volvo,4100,1050,270,350
+Daniel,12/02/2025,22/02/2025,12,Fortaleza,DAF,6700,1900,500,600
+Murilo,14/02/2025,20/02/2025,9,Goiânia,Volkswagen,4400,1150,300,380
+Rodrigo,16/02/2025,02/03/2025,10,Belo Horizonte,Mercedes-Benz,8500,2400,650,750
+Vinícius,18/02/2025,26/02/2025,8,Rio de Janeiro,Scania,6100,1650,420,500
+Thiago,20/02/2025,05/03/2025,12,Florianópolis,Iveco,7200,2000,550,650
