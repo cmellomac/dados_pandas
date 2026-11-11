@@ -1,1 +1,11 @@
 ID, Funcionario,Departamento,Salario_base,Nota_avaliacao
+F001,Ana SIlva,Vendas,3500,92
+F002,Bruno Santos,TI,4800,85
+F003,Carla Souza,Marketing,3200,74
+F004,Diego Lima,Financeiro,5000,58
+F005,Elena Rocha,RH,3000,65
+F006,Fernando Vaz,Vendas,4200,95
+F007,Gabriela Costa,TI,5200,88
+F008,Hugo Alves,Operações,3800,62
+F009,Isabela Martins,Marketing,3400,79
+F010,João Pedro,Vendas,3900,45
